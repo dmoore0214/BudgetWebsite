@@ -19,7 +19,7 @@ button{
 p{
     width: 400px;
 }
-*{
+body{
     background-color: wheat;
     border: 1px solid red;
 }
